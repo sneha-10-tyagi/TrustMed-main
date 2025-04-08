@@ -15,7 +15,7 @@ Initiated a project to authenticate prescriptions for online medicine purchases,
 ### How to Use
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/anveshas/TrustMed.git
+   git clone https://github.com/sneha-10-tyagi/TrustMed.git
 2. **Open terminal**
    ```bash
    cd TrustMed
